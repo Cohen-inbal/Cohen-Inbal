@@ -1,16 +1,33 @@
-## Hi there 👋
+# Inbal Cohen - Information Systems Engineering Student
+  
+Proficient in Python, Java, and object-oriented programming.
 
-<!--
-**Cohen-inbal/Cohen-Inbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌳 2‑3 Tree Data Structure Simulation for Price Updates (Java)  
+Developed a simulation of stock price updates using 2-3 trees in Java as a demonstration of balanced tree operations.  
+🔗 [GitHub Repo](https://github.com/Cohen-inbal/stock-tree-simulation)
+
+### 🌐 Django + SQL Web Application  
+Developed a web application with Django, using SQL for backend data operations and HTML for presentation. 
+🔗 [GitHub Repo](https://github.com/Cohen-inbal/Django-Project)
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:** Python · Java · SQL · HTML  
+**Frameworks & Tools:** Django · Git · GitHub  
+**Concepts:** OOP · Data Structures · Algorithms · Software Engineering
+
+---
+
+## 🎓 Education
+
+**B.Sc. Information Systems Engineering student**  
+Technion – Israel Institute of Technology  
+🎓 GPA: 88.2  
+🏅 Dean’s List
+
+## 🌐 [Linkedin](https://www.linkedin.com/in/inbal-cohen-141471355/)
